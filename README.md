@@ -32,3 +32,7 @@ Tests use a ray-cast renderer (`testutil.ts`) that produces photos of a known cu
 ## Roadmap
 
 CFOP solver split into cross / F2L / OLL / PLL, a step-by-step player with arrows and step counter, rescan-and-resume, and an optional learned corner detector.
+
+## History
+
+The scanner and cube model were built on 19 October 2026. This repository was recreated on 20 October 2026 to keep personal test photos out of its history, which is why the first commits are dated close together.
